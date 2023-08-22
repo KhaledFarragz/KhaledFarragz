@@ -13,23 +13,27 @@
 
 - 🏢 I'm an Embedded Systems Software Engineer 
 - 👨‍💻 As an Mechatronics Enginer, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with C programming language, Cpp, Embedded C, or anything related to Embedded Systems development.
-
+- ⭐ I have a good background in **robotics**, **embedded systems** and **machine learning**, and I’m always eager to learn more and improve my skills.
+- 🤝 I’m interested in collaborating with other engineers and researchers who share my passion for robotics and embedded systems.
+- 💬 Ask me about my experience with C programming language, Cpp, Embedded C, or anything related to Embedded Systems development.   
+-:dart: I’m open to new opportunities and challenges that can help me grow as a professional and as a person.  
+-💬 I’m always happy to connect with new people and exchange ideas, feedback and knowledge. 
 
 ### Connect with Me :
 
 <a href="https://linkedin.com/in/KhaledFarrag1510" target="_blank"><img src="https://img.shields.io/badge/Khaled%20Farrag-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/Khfarrag" target="_blank"><img src="https://img.shields.io/badge/-Khaled%20Farrag-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++&logoColor=563D7C)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![C]( 	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)&nbsp;
 
 
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmrMAbdulzaher&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 
 
 
