@@ -11,7 +11,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mechatronics%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm an Embedded Systems Software Engineer 
+- 🏢 I'm a Mechatronics Engineer 
 - 👨‍💻 As an Mechatronics Enginer, I'm constantly learning and exploring new technologies to improve my skills.
 - ⭐ I have a good background in **robotics**, **embedded systems** and **machine learning**, and I’m always eager to learn more and improve my skills.
 - 🤝 I’m interested in collaborating with other engineers and researchers who share my passion for robotics and embedded systems.
